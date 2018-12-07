@@ -15,7 +15,7 @@ nav{
     display:inline-block;
   }
   nav>#bar{
-      margin-right: 40%;
+      margin-left: 40%;
       color:rgba(255, 255, 255, 0.733);
   }
 nav>#bar>a:hover{
