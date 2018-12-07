@@ -4,7 +4,7 @@ h3,h1{
 }
 body{
     font-style: italic;
-    background-color:skyblue;
+    background-color:beige;
     border-top-color : beige;
     top : 0;
     right : 0;
@@ -23,12 +23,8 @@ nav>#bar>a:hover{
     box-shadow:0 0 0 0.625em rgba(0, 0, 0 , 0.1),0 0 0.625em rgba(255, 255, 255, 0.6);
     color:rgba(0, 35, 122, 0.7);
   }
-  #services,#activities{
-      display: flex;
-      flex: wrap;
-      width: 100%;
-      margin-bottom: 5%;
-  }
+  
+  
   #one,#three{ 
       float:right;
       margin-right:5%; 
