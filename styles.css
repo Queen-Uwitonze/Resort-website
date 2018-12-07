@@ -1,6 +1,13 @@
-#logo{
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5hcuzBCz2kMQip1UcjQCJjRNChFwViFc8P1YIsb22Myhg3IBZ");
-    background-size:cover;
-    background-repeat:no-repeat;
-    height:500px;
+
+h3,h1{
+    font-family: Arial, Helvetica, sans-serif,
+    text-align:center;
+}
+body{
+    background-color:aquamarine;
+    border-top-color: beige;
+    top:0;
+    right: 0;
+    left: 0;
+    right: 0:
 }
