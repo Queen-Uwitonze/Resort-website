@@ -25,10 +25,9 @@ nav>ul>li>a:hover{
     box-shadow:0 0 0 0.625em rgba(0, 0, 0 , 0.1),0 0 0.625em rgba(255, 255, 255, 0.6);
     color:rgba(0, 35, 122, 0.7);
   }
-  .service,.activities{
+  .services,.activities{
       display: flex;
       flex: wrap;
-      width: 40%;
   }
   #one,#three{ 
       float:right;
