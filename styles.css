@@ -17,7 +17,6 @@ nav{
     font-size:1.9em;
   }
   nav>#bar{
-      padding-left: 20%;
       color:rgba(255, 255, 255, 0.733);
   }
 nav>#bar>a:hover{
