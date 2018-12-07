@@ -13,11 +13,12 @@ body{
     right : 0;
 }
 nav{
-    margin-right:40%;
-  }
-  nav>ul{
     display:inline-block;
   }
+  nav>ul{
+      margin-right: 20%;
+  }
+  
 nav>ul>li{
     color:rgba(255, 255, 255, 0.733);
   }
@@ -28,7 +29,7 @@ nav>ul>li>a:hover{
   .services,.activities{
       display: flex;
       flex: wrap;
-      width: 50%;
+      width: 100%;
   }
   #one,#three{ 
       float:right;
