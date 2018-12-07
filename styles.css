@@ -14,21 +14,19 @@ body{
 nav{
     display:inline-block;
   }
-  nav>ul{
+  nav>bar{
       margin-right: 20%;
+      color:rgba(255, 255, 255, 0.733);
   }
-  
-nav>ul>li{
-    color:rgba(255, 255, 255, 0.733);
-  }
-nav>ul>li>a:hover{
+nav>bar>a:hover{
     box-shadow:0 0 0 0.625em rgba(0, 0, 0 , 0.1),0 0 0.625em rgba(255, 255, 255, 0.6);
     color:rgba(0, 35, 122, 0.7);
   }
-  .services,.activities{
+  #services,.activities{
       display: flex;
       flex: wrap;
       width: 100%;
+      margin-bottom: 5%;
   }
   #one,#three{ 
       float:right;
