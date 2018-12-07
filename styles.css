@@ -5,20 +5,20 @@ h3,h1{
 }
 body{
     font-style: italic;
-    background-color: aquamarine;
+    background-color:skyblue;
     border-top-color : beige;
     top : 0;
     right : 0;
     left : 0;
-    right : 0:
+    right : 0;
 }
 nav{
     margin-right:40%;
   }
-  nav>ul>li{
+  nav>ul{
     display:inline-block;
   }
-nav>ul>li>a:{
+nav>ul>li{
     color:rgba(255, 255, 255, 0.733);
   }
 nav>ul>li>a:hover{
@@ -28,6 +28,7 @@ nav>ul>li>a:hover{
   .services,.activities{
       display: flex;
       flex: wrap;
+      width: 50%;
   }
   #one,#three{ 
       float:right;
